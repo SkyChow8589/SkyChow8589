@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @SkyChow8589</h1>
+<h1 align="center">👋 Hi, I’m SkyChow8589</h1>
 
 - 🌱 I’m a graduate student at [RICE](https://www.rice.edu/)
 

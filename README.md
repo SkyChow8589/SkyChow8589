@@ -15,6 +15,8 @@
 
 - [MERN-YourPlaces](https://github.com/SkyChow8589/MERN-YourPlaces)
 - [React-JIKE-Article-Management-System](https://github.com/SkyChow8589/React-JIKE-Article-Management-System)
+- [Intra-Domain Routing Protocol Implementation](https://github.com/SkyChow8589/Intra-domain-RoutingProtocol)
+- [Pytorch-Customized-CNN](https://github.com/SkyChow8589/Pytorch-Customized-CNN)
 
 <!-- BLOG-POST-LIST:END -->
 
